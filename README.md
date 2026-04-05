@@ -1,16 +1,72 @@
-## Hi there 👋
 
-<!--
-**Mshreevishal/Mshreevishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Hi <img width="66" height="59" alt="image" src="https://github.com/user-attachments/assets/bdd0cc45-9b44-4f65-93ae-5931b990d662" /> My name is Shree Vishal
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer | 🤖 AI/ML Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I’m Shree Vishal, a passionate developer who thrives at the intersection of technology and innovation.
+
+I specialize in building intelligent applications and user-friendly web solutions that not only work efficiently but also deliver meaningful user experiences. With a strong foundation in both programming and problem-solving, I focus on transforming ideas into impactful digital products.
+
+Whether it’s developing machine learning models, building responsive web applications, or exploring new technologies, my goal is to **learn continuously and build with purpose**.
+
+---
+
+## 🌍 Location
+
+India
+
+---
+
+## 📫 Contact
+
+* ✉️ shreevishal005@gmail.com
+* 💼 Shree Vishal
+
+---
+
+## 🧠 Currently Learning
+
+* Reinforcement Learning
+* Advanced Data Structures & Algorithms
+
+---
+
+## 🤝 Open to Collaborate On
+
+* AI/ML Projects
+* Web Development Projects
+* Open Source Contributions
+* Innovative Tech Solutions
+
+---
+
+## 🛠️ Skills & Tools
+
+### 💻 Programming Languages
+
+Python • JavaScript
+
+### 🌐 Web Development
+
+HTML • CSS • React.js • Flask
+
+### 📊 Data & Machine Learning
+
+Pandas • NumPy • Matplotlib
+LSTM • CNN • RNN
+
+### 🗄️ Databases
+
+MySQL • PostgreSQL
+
+### 🧰 Tools
+
+Git • VS Code
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”*
