@@ -1,72 +1,10 @@
+Hi <img width="66" height="59" alt="image" src="https://github.com/user-attachments/assets/cef87005-bd8a-493c-9293-17b64f8ae22e" /> My name is Shreevishal
+--
+Frontend Developer | UI/UX Enthusiast
+--
+I’m Harish, a passionate web developer and designer who thrives at the intersection of creativity and technology. I specialize in crafting sleek, user-friendly websites that don’t just look good—they feel intuitive, dynamic, and alive. With a strong foundation in both design principles and coding, I bridge the gap between aesthetics and functionality, transforming ideas into digital experiences that truly connect with people. Whether it’s building responsive interfaces, experimenting with animations, or refining a brand’s online presence, my goal is to design with purpose and develop with precision.
 
-#  Hi[ <img width="66" height="59" alt="image" src="https://github.com/user-attachments/assets/bdd0cc45-9b44-4f65-93ae-5931b990d662" />](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shree Vishal
-
-💻 Aspiring Software Developer | 🤖 AI/ML Enthusiast
-
----
-
-## 🚀 About Me
-
-I’m Shree Vishal, a passionate developer who thrives at the intersection of technology and innovation.
-
-I specialize in building intelligent applications and user-friendly web solutions that not only work efficiently but also deliver meaningful user experiences. With a strong foundation in both programming and problem-solving, I focus on transforming ideas into impactful digital products.
-
-Whether it’s developing machine learning models, building responsive web applications, or exploring new technologies, my goal is to **learn continuously and build with purpose**.
-
----
-
-## 🌍 Location
-
-India
-
----
-
-## 📫 Contact
-
-* ✉️ shreevishal005@gmail.com
-* 💼 Shree Vishal
-
----
-
-## 🧠 Currently Learning
-
-* Reinforcement Learning
-* Advanced Data Structures & Algorithms
-
----
-
-## 🤝 Open to Collaborate On
-
-* AI/ML Projects
-* Web Development Projects
-* Open Source Contributions
-* Innovative Tech Solutions
-
----
-
-## 🛠️ Skills & Tools
-
-### 💻 Programming Languages
-
-Python • JavaScript
-
-### 🌐 Web Development
-
-HTML • CSS • React.js • Flask
-
-### 📊 Data & Machine Learning
-
-Pandas • NumPy • Matplotlib
-LSTM • CNN • RNN
-
-### 🗄️ Databases
-
-MySQL • PostgreSQL
-
-### 🧰 Tools
-
-Git • VS Code
-
----
-
-⭐ *“Code. Learn. Build. Repeat.”*
+- 🌍 I'm based in India\
+*✉️ You can contact me at shreevishal005@gmail.com
+*🧠 I'm currently learning Node.js
+*👥 I'm looking to collaborate on Web development projects (frontend & full-stack) UI/UX design and user-centered product building Creative website redesigns and brand experiences Open-source contributions and innovative tech solutions
