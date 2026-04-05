@@ -7,4 +7,4 @@ I’m shreevishal, a passionate web developer and designer who thrives at the in
 - 🌍 I'm based in India
 - ✉️ You can contact me at shreevishal005@gmail.com
 - 🧠 I'm currently learning Reinforcement Learning
-- 👥 I'm looking to collaborate on Web development projects (frontend & full-stack) UI/UX design and user-centered product building Creative website redesigns and brand experiences Open-source contributions and innovative tech solutions
+- 👥 I'm looking to collaborate on Web development projects (machine learning and deep learning models)and user-centered product building Creative website redesigns and brand experiences Open-source contributions and innovative tech solutions
