@@ -1,5 +1,5 @@
 
-#  Hi <img width="66" height="59" alt="image" src="https://github.com/user-attachments/assets/bdd0cc45-9b44-4f65-93ae-5931b990d662" /> My name is Shree Vishal
+#  Hi[ <img width="66" height="59" alt="image" src="https://github.com/user-attachments/assets/bdd0cc45-9b44-4f65-93ae-5931b990d662" />](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shree Vishal
 
 💻 Aspiring Software Developer | 🤖 AI/ML Enthusiast
 
